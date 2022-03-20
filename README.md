@@ -2,7 +2,7 @@
 
 ### Need Answers for your Data Science Exam?
 <p align="center">
-  <a href="https://docs.google.com/document/d/1Wu0Pk26T96kBO0UwqiPtH7nrmv_z_KTZjdsjn_IZX0k/edit?usp=sharing" target="_main"><img src="https://indianmemetemplates.com/wp-content/uploads/haan-mai-de-dunga-tu-tension-mat-le.jpg" alt="HO HO" height="200px"></a>
+  <a href="https://docs.google.com/document/d/1Wu0Pk26T96kBO0UwqiPtH7nrmv_z_KTZjdsjn_IZX0k/edit?usp=sharing" target="_blank"><img src="https://indianmemetemplates.com/wp-content/uploads/haan-mai-de-dunga-tu-tension-mat-le.jpg" alt="Aman Gupta" height="200px"></a>
 </p>
 
 ## Outlier Detection
