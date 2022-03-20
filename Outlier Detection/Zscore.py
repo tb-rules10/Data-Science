@@ -6,3 +6,5 @@ mean = np.mean(data)
 std = np.std(data)
 z_score_outlier = [i for i in data if (i-mean)/std > threshold]
 print("Z score:",z_score_outlier)
+
+`#Z-score(i) = (x(i) -mean) / standard deviation`
