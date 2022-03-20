@@ -9,6 +9,7 @@
 ## Outlier Detection
 - [Zscore](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/Zscore.py)
 - [LOF](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/LOF.py)
+- [Interquartile Range](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/IQR.py)
 
 
 
