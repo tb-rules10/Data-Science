@@ -8,6 +8,8 @@
      `LOF < 1 higher density than neighbors (normal point)` <br>
      `LOF > 1 lower density than neighbors (anomaly)` <br>
 
-- [Isolation Forest]()
+- [Isolation Forest](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/IF.py)
+
+- [ODIN](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/ODIN.py)
 
 - [Interquartile Range](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/IQR.py)
