@@ -2,7 +2,7 @@
 
 - [Zscore](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/Zscore.py) - The Z-score(also called the standard score) is an important concept in statistics that indicates how far away a certain point is from the mean. By applying Z-transformation we shift the distribution and make it 0 mean with unit standard deviation. For example — A Z-score of 2 would mean the data point is 2 standard deviation away from the mean.
 
-`Z-score(i) = (x(i) -mean) / standard deviation`
+     `Z-score(i) = (x(i) -mean) / standard deviation`
 
 - [LOF](https://github.com/tb-rules10/Data-Science/blob/main/Outlier%20Detection/LOF.py) - In Local Outlier Factor (LOF), the idea revolves around the concept of local regions. Here, we calculate and compare the local density of the focus point with the local density of its neighbours.
 
