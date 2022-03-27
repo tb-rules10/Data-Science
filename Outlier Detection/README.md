@@ -19,6 +19,9 @@
 
 ### Useful Links
 
-[Outlier Detection](https://towardsdatascience.com/5-outlier-detection-methods-that-every-data-enthusiast-must-know-f917bf439210)
-[Data Acquisition](https://intellipaat.com/blog/tutorial/data-science-tutorial/data-acquisition/#:~:text=What%20is%20Data%20Acquisition%3F,%2C%20Querying%20relational%20database%2C%20etc.)
-[Data Cleaning](https://towardsdatascience.com/what-is-data-cleaning-how-to-process-data-for-analytics-and-machine-learning-modeling-c2afcf4fbf45)
+[Outlier Detection](https://towardsdatascience.com/5-outlier-detection-methods-that-every-data-enthusiast-must-know-f917bf439210)<br>
+[Data Acquisition](https://intellipaat.com/blog/tutorial/data-science-tutorial/data-acquisition/#:~:text=What%20is%20Data%20Acquisition%3F,%2C%20Querying%20relational%20database%2C%20etc.)<br>
+[Data Cleaning](https://towardsdatascience.com/what-is-data-cleaning-how-to-process-data-for-analytics-and-machine-learning-modeling-c2afcf4fbf45)<br>
+
+
+
